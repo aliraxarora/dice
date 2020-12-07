@@ -1,0 +1,40 @@
+body{
+  background-color: #393E46;
+}
+.container{
+
+  font-size: 4rem;
+  text-align: center;
+  color: aqua;
+  font-family: 'Lobster', cursive;
+  position: relative;
+  bottom: 100px;
+  text-shadow: 5px 5px black;
+}
+.players{
+  text-align: center;
+  font-size: 40px;
+  position: relative;
+  bottom: 150px;
+  font-family: 'Lobster', cursive;
+  font-family: 'Philosopher', sans-serif;
+  color: aqua;
+  
+}
+.foot{
+  text-align: center;
+  position: relative;
+  bottom:400px;
+  color: azure;
+}
+.dice{
+position: relative;
+bottom:155px ;
+left: 400px;
+
+}
+.dice1{
+  position: relative;
+  bottom:430px;
+  left:700px;
+}
